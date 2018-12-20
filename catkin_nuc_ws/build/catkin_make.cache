@@ -1,0 +1,2 @@
+turtlebot-kinetic/turtlebot:turtlebot-kinetic/turtlebot_bringup:turtlebot-kinetic/turtlebot_capabilities:turtlebot-kinetic/turtlebot_description:turtlebot-kinetic/turtlebot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/keran/catkin_nuc_ws/devel -DCMAKE_INSTALL_PREFIX=/home/keran/catkin_nuc_ws/install -G Unix Makefiles
